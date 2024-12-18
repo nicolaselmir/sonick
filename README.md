@@ -143,4 +143,3 @@ Found this useful? You can:
 ---
 
 **Note**: This tool is designed for personal use and should be used in accordance with Bandcamp's terms of service.
-```
