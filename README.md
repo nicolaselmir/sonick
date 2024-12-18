@@ -1,4 +1,4 @@
-# Sonick 🎵
+# Sonick ⚡️
 
 A command-line tool to download music from Bandcamp with proper metadata and artwork. This tool automatically organizes downloads by date and embeds track metadata including album artwork.
 
@@ -109,6 +109,36 @@ Nicolas Elmir
 ## Contributing
 
 This is a personal tool, but suggestions are welcome through issues or pull requests.
+
+## Disclaimer
+
+This tool is for personal use only and should be used in accordance with Bandcamp's terms of service. It is designed to help users organize their legally acquired music and should not be used to distribute copyrighted content. The developer is not responsible for any misuse of this tool.
+
+Please ensure you have the right to download any content before using this tool. Support the artists by purchasing their music!
+
+## Legal Disclaimer
+
+**Important:** This tool is for educational purposes and personal use only.
+
+By using this tool, YOU are responsible for:
+- Having the right to download content
+- Supporting the artists
+- How you use the downloaded content
+- Following Bandcamp's terms of service
+
+The developer:
+- Is NOT responsible for how you use this tool
+- Makes NO guarantees about anything
+- Takes NO responsibility for any issues
+
+**Support the artists by purchasing their music! 🎵**
+
+## Support
+
+Found this useful? You can:
+- ⭐ Star the repository
+- 🐛 Report bugs via issues
+- 💡 Suggest features
 
 ---
 
