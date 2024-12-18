@@ -1,0 +1,23 @@
+{
+  "name": "sonick",
+  "version": "1.0.0",
+  "description": "Download music from Bandcamp",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "sonick": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.7",
+    "node-id3": "^0.2.6"
+  },
+  "private": true,
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
